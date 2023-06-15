@@ -1,6 +1,6 @@
-<object data="./CM_Project.pdf" type="application/pdf" width="700px" height="500px">
-    <embed src="./CM_Project.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="./CM_Project.pdf">Download PDF</a>.
+<object data="./Submissions/CM_Project.pdf" type="application/pdf" width="700px" height="500px">
+    <embed src="./Submissions/CM_Project.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="./Submissions/CM_Project.pdf">Download PDF</a>.
     </embed>
 </object>
 
