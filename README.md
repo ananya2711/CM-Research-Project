@@ -1,11 +1,13 @@
-<object data="[https://path/to/your/file.pdf](https://github.com/PritishWadhwa/CM-Project/blob/master/CM_Project.pdf)" type="application/pdf" width="700px" height="500px">
-    <embed src="[https://path/to/your/file.pdf](https://github.com/PritishWadhwa/CM-Project/blob/master/CM_Project.pdf)">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://path/to/your/file.pdf">Download PDF</a>.
+<object data="./CM_Project.pdf" type="application/pdf" width="700px" height="500px">
+    <embed src="./CM_Project.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="./CM_Project.pdf">Download PDF</a>.
     </embed>
 </object>
 
 # Computing For Medicine Final Research Paper
+
 ## Abstract
+
 Medical data often contains various forms of image data such as
 x-ray scans, MRI scans, and CT scans. Computer-aided diagnosis
 systems can benefit from making use of such image data. Our problem statement is to perform classification tasks on medical image
@@ -15,6 +17,7 @@ data applications. Most of the diagnosis techniques in medical field
 are systematized as intelligent data classification approaches.
 
 ## Conclusion
+
 In this project, we explored the power of transfer learning on medical image datasets using the BloodMNIST and OCTMNIST datasets
 from the MEDMNISTv2 database. Visualizing the data showed us
 that the data was not clearly separable, possibly requiring complex
